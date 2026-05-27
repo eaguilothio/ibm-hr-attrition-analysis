@@ -1,4 +1,3 @@
-```markdown
 # HR Attrition Analysis · IBM HR Analytics
 ¿Qué factores explican que un empleado abandone la empresa?
 
