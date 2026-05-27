@@ -1,4 +1,4 @@
-# HR Attrition Analysis · IBM HR Analytics
+# People Analytics — IBM
 ¿Qué factores explican que un empleado abandone la empresa?
 
 ---
