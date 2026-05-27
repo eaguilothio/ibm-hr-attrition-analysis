@@ -7,7 +7,7 @@
 
 IBM gestionaba una plantilla de miles de empleados con un problema que los datos de RRHH no terminaban de explicar: por qué ciertos perfiles abandonaban la empresa y otros no.
 
-En este caso práctico, asumí el rol de analista de RRHH utilizando el dataset público IBM HR Analytics para responder una pregunta concreta: **¿qué factores explican que un empleado abandone la empresa?**
+En este caso práctico, asumí el rol de analista de RRHH utilizando el dataset público IBM HR Analytics para responder una pregunta concreta: **¿Qué factores explican que un empleado abandone la empresa?**
 
 Antes de diseñar cualquier estrategia, hay que saber quién se va y por qué.
 
@@ -108,9 +108,12 @@ Implementar mentoring estructurado y revisiones de satisfacción periódicas dur
 **Viajes frecuentes — revisión de política**
 Analizar qué desplazamientos son realmente necesarios y compensar adecuadamente los que no se pueden eliminar. Métrica de seguimiento: tasa de rotación por categoría de BusinessTravel antes y después de aplicar cambios.
 
+---
+
 ## Limitaciones
 
 El dataset no incluye variable de fecha. Si los registros corresponden a periodos distintos, comparar la tasa global con un benchmark anual concreto (~15% sector tecnológico) sería metodológicamente incorrecto — se estarían mezclando realidades temporales diferentes. Se asume que todos los registros pertenecen a un mismo periodo, pero no se puede verificar.
+
 ---
 
 ## Archivos del repositorio
